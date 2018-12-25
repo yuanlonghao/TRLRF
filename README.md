@@ -1,5 +1,5 @@
 # TRLRF
-Tensor ring low-rank factors (AAAI 2019)
+Tensor ring low-rank factors
 "Tensor Ring Decomposition with Rank Minimization on Latent Space:
             An Efficient Approach for Tensor Completion", AAAI, 2019.
 # Information
